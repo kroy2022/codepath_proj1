@@ -1,3 +1,9 @@
 # codepath_proj1
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/qSs4bCj" data-context="false" ><a href="//imgur.com/a/qSs4bCj"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<video width="320" height="240" controls autoplay loop>
+  <source src="https://i.imgur.com/UOTkCCk.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+
+https://imgur.com/a/qSs4bCj
