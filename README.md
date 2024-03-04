@@ -4,13 +4,13 @@
 
 https://imgur.com/a/qSs4bCj
 
-# Web Development Project 1 - *Name of App Here*
+# Web Development Project 1 - FoodFinder
 
-Submitted by: **Your Name Here**
+Submitted by: Kevin Roy
 
-This web app: **insert description**
+This web app: Gives Fast Food information to the most popular fast food sites.
 
-Time spent: **X** hours spent in total
+Time spent: 3 hours spent in total
 
 ## Required Features
 
